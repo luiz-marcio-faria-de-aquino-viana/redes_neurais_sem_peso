@@ -10,13 +10,25 @@ Priscila Machado Vieira Lima, Ph.D. (https://www.cos.ufrj.br/index.php/pt-BR/pes
 
 # Referências
 
-Learning From Data, Yaser S. Abu-Mostafa (https://work.caltech.edu/telecourse)
+Igor Aleksander, Ph.D. - Imperial College London
+https://en.wikipedia.org/wiki/Igor_Aleksander
+
+Felipe Maia Galvão França, Ph.D. - Imperial College London
+https://www.cos.ufrj.br/index.php/pt-BR/pessoas/details/18/1018-felipe
+
+Iuri Wickert, M.Sc. Modos de Aprendizado Não-Supervisionado para o Modelo Neural Sem-Pesos WISARD. 2001. 
+Dissertação (Mestrado em Engenharia de Sistemas e Computação) - Universidade Federal do Rio de Janeiro.
+
+Leandro Almeida Araújo, M.Sc.; RWISARD: Um Modelo de Rede Neural Sem Peso para Reconhecimento e Classificação de Imagens em Escala de Cinza. 2001. 
+Dissertação (Mestrado em Engenharia de Sistemas e Computação) - Universidade Federal do Rio de Janeiro.
 
 CDnet: ChangeDetection.Net, 2012-2014, http://changedetection.net/
 
 M. Gregorio, M. Giordano, “WiSARD rp for Change Detection in Video Sequences”, 2017
 
 M. Gregorio, M. Giordano, ‘Change Detection with Weightless Neural Networks”, 2014
+
+Learning From Data, Yaser S. Abu-Mostafa (https://work.caltech.edu/telecourse)
 
 # Nota
 
