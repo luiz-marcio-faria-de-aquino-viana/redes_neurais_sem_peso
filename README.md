@@ -12,6 +12,7 @@ Priscila Machado Vieira Lima, Ph.D. (https://www.cos.ufrj.br/index.php/pt-BR/pes
 
 Igor Aleksander, Ph.D. - Imperial College London
 https://en.wikipedia.org/wiki/Igor_Aleksander
+https://www.imperial.ac.uk/about/history/past-people/
 
 Felipe Maia Galvão França, Ph.D. - Imperial College London
 https://www.cos.ufrj.br/index.php/pt-BR/pessoas/details/18/1018-felipe
